@@ -1,6 +1,6 @@
 <?php
 
-// enqueue the child theme stylesheet
+// enqueue the child theme stylesheet 2
 
 Function wp_schools_enqueue_scripts() {
 wp_register_style( 'childstyle', get_stylesheet_directory_uri() . '/style.css'  );
